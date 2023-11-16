@@ -1,0 +1,1 @@
+project(':my_flutter').projectDir = new File('../my_flutter')
